@@ -1,0 +1,4 @@
+org\kie\kogito\queries\KogitoSpringbootApplication.class
+org\kie\kogito\queries\LoanApplication.class
+org\kie\kogito\queries\LoanUnit.class
+org\kie\kogito\queries\Applicant.class
